@@ -1,1 +1,2 @@
 print('shin')
+print('hi')
