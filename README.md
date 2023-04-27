@@ -20,3 +20,18 @@
 :https://docs.google.com/presentation/d/1B9U-DVyYhVAE5_ZT1NVz0CdpqMdhDtfcH2bLjb1DV3U/edit?hl=ko#slide=id.p
 
 
+---
+2023/03/24 ~2023/04/16
+---
+
+로봇 조립 완료
+카메라 동작 확인 완료
+액추에이터 제어 동작 확인 완료
+
+---
+2023/04/17 ~2023/04/27
+---
+
+라인 트래킹 제작중
+
+
