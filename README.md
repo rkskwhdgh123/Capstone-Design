@@ -62,9 +62,8 @@ PART3 Parking
 ---
 
 2023.5.10
-주차선의 주차 공간 인식
-모터 제어전에 중심점을 정확하게 인식하기 위해 코드 수정중
-
+주차선 내부 주차 공간 인식중
 
 https://github.com/rkskwhdgh123/Capstone-Design/assets/103232943/dad774a4-3685-47aa-879a-fbb1c3b7ed94
 
+모터 제어전에 중심점을 정확하게 인식하기 위해 코드 수정중
