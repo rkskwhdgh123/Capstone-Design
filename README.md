@@ -37,3 +37,13 @@
 라인 트래킹 제작중
 
 
+---
+PART1 leader following
+---
+2023.5.10
+라인 검출후 라인을 추적하는 기능 구현
+
+https://github.com/rkskwhdgh123/Capstone-Design/assets/103232926/8fff94f6-409b-4618-b475-776d9b8e1c47
+
+
+현재 라인을 추적하는 로봇의 뒷 모습을 darknet yolo로 학습시키는 중
