@@ -47,3 +47,11 @@ https://github.com/rkskwhdgh123/Capstone-Design/assets/103232926/8fff94f6-409b-4
 
 
 현재 라인을 추적하는 로봇의 뒷 모습을 darknet yolo로 학습시키는 중
+
+---
+PART2 Lidar Mapping
+---
+2023.5.10
+라이다센서에서 거리와 각도값 측정 후 장애물 그리기 기능 구현 중
+
+https://github.com/rkskwhdgh123/Capstone-Design/assets/103232864/91e250ff-9a13-4015-adc2-b69d84470678
