@@ -55,3 +55,16 @@ PART2 Lidar Mapping
 라이다센서에서 거리와 각도값 측정 후 장애물 그리기 기능 구현 중
 
 https://github.com/rkskwhdgh123/Capstone-Design/assets/103232864/91e250ff-9a13-4015-adc2-b69d84470678
+
+
+---
+PART3 Parking
+---
+
+2023.5.10
+주차선의 주차 공간 인식
+모터 제어전에 중심점을 정확하게 인식하기 위해 코드 수정중
+
+
+https://github.com/rkskwhdgh123/Capstone-Design/assets/103232943/dad774a4-3685-47aa-879a-fbb1c3b7ed94
+
