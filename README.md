@@ -36,6 +36,12 @@
 
 라인 트래킹 제작중
 
+---
+블럭도
+---
+
+<img width="798" alt="1학기 블럭도" src="https://github.com/rkskwhdgh123/Capstone-Design/assets/103232926/2d5f2dc7-a321-4c35-b811-9d856f10df89">
+
 
 ---
 PART1 leader following
