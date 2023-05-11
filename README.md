@@ -40,7 +40,7 @@
 블럭도
 ---
 
-<img width="798" alt="1학기 블럭도" src="https://github.com/rkskwhdgh123/Capstone-Design/assets/103232926/2d5f2dc7-a321-4c35-b811-9d856f10df89">
+![image](https://github.com/rkskwhdgh123/Capstone-Design/assets/103232926/43de2a18-4244-4d7e-ae5e-e95b09216865)
 
 
 ---
