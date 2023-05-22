@@ -61,7 +61,14 @@ PART2 Lidar Mapping
 라이다센서에서 거리와 각도값 측정 후 장애물 그리기 기능 구현 중
 
 https://github.com/rkskwhdgh123/Capstone-Design/assets/103232864/91e250ff-9a13-4015-adc2-b69d84470678
+2023.5.22
+라이다센서를 이용하여 장애물을 검출하고 회피하여 주행하는 기능 구현
 
+https://github.com/rkskwhdgh123/Capstone-Design/assets/103232864/f647139a-15bb-44f7-9e9a-8c2ab82f7b22
+
+라이다센서를 이용하여 가장 가까운 물체를 추적하는 기능 구현
+
+https://github.com/rkskwhdgh123/Capstone-Design/assets/103232864/99cafe2c-4a62-4239-9608-56aa7764173e
 
 ---
 PART3 Parking
