@@ -54,6 +54,8 @@ https://github.com/rkskwhdgh123/Capstone-Design/assets/103232926/8fff94f6-409b-4
 
 현재 라인을 추적하는 로봇의 뒷 모습을 darknet yolo로 학습시키는 중
 
+
+
 2023.5.23
 
 
