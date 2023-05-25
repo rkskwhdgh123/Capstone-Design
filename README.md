@@ -61,7 +61,9 @@ https://github.com/rkskwhdgh123/Capstone-Design/assets/103232926/8fff94f6-409b-4
 
 라인을 추적하는 leader로봇을 추적하는 follower 로봇 제작 완료
 
-https://github.com/rkskwhdgh123/Capstone-Design/assets/103232926/e6d4a6cc-97ca-4bc0-bf63-87d11bf72cc6
+
+https://github.com/rkskwhdgh123/Capstone-Design/assets/103232926/3a647862-c598-408b-acc8-20f8dedeb3e1
+
 
 
 
