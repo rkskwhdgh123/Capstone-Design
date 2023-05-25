@@ -87,9 +87,27 @@ PART3 Parking
 ---
 
 2023.5.10
-
-주차선 내부 주차 공간 인식중
+주차선 내부 주차 공간 인식
 
 https://github.com/rkskwhdgh123/Capstone-Design/assets/103232943/dad774a4-3685-47aa-879a-fbb1c3b7ed94
 
 모터 제어전에 중심점을 정확하게 인식하기 위해 코드 수정중
+
+2023.5.22
+주차선 인식 완료, 카메라 2대를 사용하여 주차 구현
+
+
+
+https://github.com/rkskwhdgh123/Capstone-Design/assets/103232943/03eab1b9-252d-4e5b-a48a-a34a935be4a1
+
+
+
+https://github.com/rkskwhdgh123/Capstone-Design/assets/103232943/0ae11f6e-908a-4ce2-b45b-c8d3feda37e8
+
+
+
+https://github.com/rkskwhdgh123/Capstone-Design/assets/103232943/1030674c-fd46-4c97-a0fb-3252955cd9de
+
+
+
+
