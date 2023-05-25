@@ -100,15 +100,10 @@ https://github.com/rkskwhdgh123/Capstone-Design/assets/103232943/dad774a4-3685-4
 
 
 
-https://github.com/rkskwhdgh123/Capstone-Design/assets/103232943/03eab1b9-252d-4e5b-a48a-a34a935be4a1
+
+https://github.com/rkskwhdgh123/Capstone-Design/assets/103232943/9b0f66be-162b-4cdb-8d70-87be83453e9f
 
 
-
-https://github.com/rkskwhdgh123/Capstone-Design/assets/103232943/0ae11f6e-908a-4ce2-b45b-c8d3feda37e8
-
-
-
-https://github.com/rkskwhdgh123/Capstone-Design/assets/103232943/1030674c-fd46-4c97-a0fb-3252955cd9de
 
 
 
